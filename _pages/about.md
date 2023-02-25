@@ -6,20 +6,25 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sumanchowdhurykgp_compressed.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>AI & IoT Lab, Information Technology Group</p>
+    <p>CSIR- Central Mechanical Engineering Research Institute</p>
+    <p>Durgapur-713209, West Bengal</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am an Integrated M.Tech-PhD student at the [Academy of Scientific and Innovative Research (AcSIR)](https://acsir.res.in/) and [Central Mechanical Engineering Research Institute (CSIR-CMERI)](https://www.cmeri.res.in/), India. I was born in [Baranagar](https://en.wikipedia.org/wiki/Baranagar) and grew up in [Kharagpur](https://en.wikipedia.org/wiki/Kharagpur), both of which are industrial cities. I am deeply passionate about physics, electronics, and computational science.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently working on Computer Vision and Machine Learning at the AI & IoT lab at CSIR-CMERI under the supervision of [Dr. Rajesh P. Barnwal](https://www.cmeri.res.in/user-details/1284). I am interested in theoretical and applied research in the areas of multi-label classification, concept drifts, and hierarchical classification with specific applications in data streams. In addition, as part of my B.Tech project at [Jalpaiguri Government Engineering College](https://jgec.ac.in/) and during my internship at [IIT Kharagpur](http://www.iitkgp.ac.in/), I briefly worked on distributed storage systems and coding theory.
+
+I am also interested in applications of ML & AI in medical imaging and robotics, and related problems such as explainability, ethics, bias, philosophy, etc. I am absolutely fascinated by the plethora of real-world solutions made possible through machine learning in the fields of applied sciences, engineering, linguistics, and social sciences.
+
+<!---Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.-->
