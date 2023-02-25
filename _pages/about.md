@@ -8,10 +8,6 @@ profile:
   align: right
   image: sumanchowdhurykgp_compressed.jpg
   image_circular: false # crops the image to make it circular
-  address: <!--->
-    <p>AI & IoT Lab, Information Technology Group</p>
-    <p>CSIR- Central Mechanical Engineering Research Institute</p>
-    <p>Durgapur-713209, West Bengal</p> -->
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
