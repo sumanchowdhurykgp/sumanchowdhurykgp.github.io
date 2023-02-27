@@ -45,10 +45,10 @@
   contents:
     - year: Oct 2021
       items: 
-        - CSIR JRF (GATE)
-    - year: 2029
+        - CSIR JRF (GATE), Council of Scientific and Industrial Research
+    - year: 2015-2019
       items: 
-        - Full Fee Scholarship (FFS)
+        - Full Fee Scholarship (FFS), Government of West Bengal
 
 - title: Academic Interests
   type: nested_list
