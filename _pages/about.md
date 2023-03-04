@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: CSIR- Junior Research Fellow at <a href='https://www.cmeri.res.in/'>CSIR-CMERI, Durgapur</a>
 
