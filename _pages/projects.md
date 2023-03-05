@@ -2,7 +2,7 @@
 layout: page
 title: Life
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: “The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane” —Marcus Aurelius
 nav: true
 nav_order: 2
 display_categories: [work, fun]
