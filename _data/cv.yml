@@ -38,18 +38,6 @@
       description:
         - Developed practical & working model for a Distributed Storage System through programming based on Optimal Exact-Regenerating Codes and succesfully stored and retrieved simple data, detected failure of nodes and regeneration thereof.
         - Received Letter of Recommendation from Prof. Sant Sharan Pathak, EECE, IIT Kharagpur
-
-- title: Programming Skills
-  type: nested_list
-  contents:
-    - title: Languages
-      items:
-        - Python
-        - C
-        - C++
-     - title: Libraries
-       items:
-         - Pytorch, TensorFlow, Keras, NumPy, Pandas
          
 - title: Honors and Awards
   type: time_table
