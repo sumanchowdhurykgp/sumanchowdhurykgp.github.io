@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Moments
-description: "Let's face it, life is uncertain" —Prof. Patrick Jaillet
-img: assets/img/7.jpg
+description: “Lets face it, life is uncertain.” —Prof. Patrick Jaillet 
+img: assets/img/5.jpg
 importance: 3
+category: 
 ---
 
 Every project has a beautiful feature showcase page.
