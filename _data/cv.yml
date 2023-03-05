@@ -39,7 +39,18 @@
         - Developed practical & working model for a Distributed Storage System through programming based on Optimal Exact-Regenerating Codes and succesfully stored and retrieved simple data, detected failure of nodes and regeneration thereof.
         - Received Letter of Recommendation from Prof. Sant Sharan Pathak, EECE, IIT Kharagpur
 
-
+- title: Programming Skills
+  type: nested_list
+  contents:
+    - title: Languages
+      items:
+        - Python
+        - C
+        - C++
+     - title: Libraries
+       items:
+         - Pytorch, TensorFlow, Keras, NumPy, Pandas
+         
 - title: Honors and Awards
   type: time_table
   contents:
@@ -50,7 +61,7 @@
       items: 
         - Full Fee Scholarship (FFS), Government of West Bengal
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
     - title: Multi-Label Classification
@@ -58,6 +69,8 @@
         - Offline or traditional
         - Online or data streams
     - title: Concept Drift
+    - title: Vision Transformer explainability
+    - title: Hierarchical Classification
 
 - title: Other Interests
   type: list
