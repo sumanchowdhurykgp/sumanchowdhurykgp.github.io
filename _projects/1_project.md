@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Paintings
+description: “I found I could say things with color and shapes that I couldn’t say any other way—things I had no words for.” — Georgia O’Keeffe
 img: assets/img/12.jpg
 importance: 1
-category: work
 ---
 
 Every project has a beautiful feature showcase page.
