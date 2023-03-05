@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Photo Gallery
+description: “Photography is a way of feeling, of touching, of loving.” —Aaron Siskind
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: 
 ---
 
 Every project has a beautiful feature showcase page.
