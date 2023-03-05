@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paintings
+title: Art
 description: “I found I could say things with color and shapes that I couldn’t say any other way—things I had no words for.” — Georgia O’Keeffe
 img: assets/img/12.jpg
 importance: 1
