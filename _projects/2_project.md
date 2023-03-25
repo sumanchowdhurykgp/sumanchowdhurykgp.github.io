@@ -2,7 +2,7 @@
 layout: page
 title: Photo Gallery
 description: “Photography is a way of feeling, of touching, of loving.” —Aaron Siskind
-img: assets/img/3.jpg
+img: assets/img/a2.jpg
 importance: 2
 category: 
 ---
@@ -51,7 +51,7 @@ Jalpaiguri Government Engineering College, or Jolu, as we call our dear college,
     </div>
 </div>
 <div class="caption">
-    Zang Dhok Palri Phodang Tibetan Buddhist monastery, Kalimpong
+    in search of beauty...
 </div>
 
 
