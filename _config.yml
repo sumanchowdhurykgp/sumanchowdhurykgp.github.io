@@ -10,12 +10,12 @@ email: chowdhurysuman.cmeri@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Dedicated to the memory of my father
+  Dedicated to the memory of my father |
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: suman chowdhury, machine learning, artificial intelligence, computer vision, acsir, csir, cmeri, jgec  # add your own keywords or leave empty
  
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: :infinity: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:  ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://sumanchowdhurykgp.github.io # the base hostname & protocol for your site
 baseurl: 
