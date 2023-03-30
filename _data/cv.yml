@@ -65,20 +65,18 @@
         - CSIR JRF (GATE), Council of Scientific and Industrial Research
     - year: 2015-2019
       items: 
-        - Full Fee Scholarship (FFS), Government of West Bengal
+        - Full Fee Scholarship (FFS), Jalpaiguri Government Engineering College
 
 - title: Research Interests
   type: nested_list
   contents:
     - title: Multi-Label Classification
-      items: 
-        - Offline or traditional
-        - Online or data streams
+    - title: Scene Understanding
     - title: Concept Drift
-    - title: Vision Transformer explainability
     - title: Hierarchical Classification
+    - title: Explainable AI
 
-- title: Other Interests
+- title: Hobbies
   type: list
   contents:
-    - <u>Hobbies:</u> Painting, sketching, chess, Wikipedia editor, weight training, logo designing.
+    - Painting, sketching, chess, Wikipedia, weight training, graphic design
