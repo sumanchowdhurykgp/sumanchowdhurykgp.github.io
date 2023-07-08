@@ -39,7 +39,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: "sumanchowdhurykgp"
 gitlab_username: # your GitLab user name
-twitter_username: "suman_cmeri"
+twitter_username: 
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: "sumanchowdhurykgp"
 telegram_username: # your Telegram user name
@@ -76,7 +76,7 @@ semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: "0000-0002-2166-9024"
 medium_username: # your Medium username
-quora_username: "সুমন-চৌধুরী-Suman-Chowdhury"
+quora_username:
 publons_id: # your ID on Publons
 osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
@@ -84,7 +84,7 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-wikipedia_id: "Suman_chowdhury_22"
+wikipedia_id:
 dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
