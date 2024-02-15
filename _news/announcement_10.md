@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-02-13 17:30:00-0400
+date: 2023-02-13
 inline: true
 ---
 
