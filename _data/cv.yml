@@ -15,7 +15,7 @@
       year: Aug 2021-Present
       description:
         - M.Tech in Mechatronics
-        - PhD in Computer Vision and Machine Learning
+        - PhD in Computer Vision for Autonomous Vehicles
  
     - title: Bachelor of Technology (B.Tech)
       institution: Jalpaiguri Government Engineering College, Jalpaiguri, West Bengal
@@ -26,11 +26,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: CSIR Senior Research Fellow (GATE)
+      institution: CSIR- Central Mechanical Engineering Research Institute, Durgapur
+      year: Nov 2023-Present
+      description:
+        - Working on Multi-Label Learning and Visual Reasoning for Road Scene Understanding
+        
     - title: CSIR Junior Research Fellow (GATE)
       institution: CSIR- Central Mechanical Engineering Research Institute, Durgapur
       year: Nov 2021-Present
       description:
-        - Working on Multi-Label Classification
+        - Working on Multi-Label Classification for Road Scene Understanding
         
     - title: Summer Research Intern (UG)
       institution: Indian Institute of Technology Kharagpur, West Bengal, India
@@ -71,10 +77,8 @@
   type: nested_list
   contents:
     - title: Multi-Label Classification
-    - title: Scene Understanding
-    - title: Concept Drift
-    - title: Hierarchical Classification
-    - title: Explainable AI
+    - title: Visual Reasoning
+    - title: Road/Traffic Scene Understanding
 
 - title: Hobbies
   type: list
