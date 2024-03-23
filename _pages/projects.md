@@ -3,7 +3,7 @@ layout: page
 title: Life
 permalink: /projects/
 description: “The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane” —Marcus Aurelius
-nav: true
+nav: false
 nav_order: 2
 display_categories: 
 horizontal: false
